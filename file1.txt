@@ -1,0 +1,5 @@
+
+this is first line of file1!
+this is next line!
+this is first line of the append!
+this is second line of append  line:

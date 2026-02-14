@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-02-07T09:26:43.648791700Z</date>
+  <millis>1770456403648</millis>
+  <nanos>791700</nanos>
+  <sequence>3</sequence>
+  <logger>LogginBasic</logger>
+  <level>INFO</level>
+  <class>LogginBasic</class>
+  <method>main</method>
+  <thread>3</thread>
+  <message>this app is not working !</message>
+</record>
+<record>
+  <date>2026-02-07T09:26:43.653176200Z</date>
+  <millis>1770456403653</millis>
+  <nanos>176200</nanos>
+  <sequence>4</sequence>
+  <logger>LogginBasic</logger>
+  <level>WARNING</level>
+  <class>LogginBasic</class>
+  <method>main</method>
+  <thread>3</thread>
+  <message>please handle inpute exception!</message>
+</record>
+</log>
+Feb 07, 2026 3:02:45 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 3:02:45 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 3:33:46 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 3:33:46 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 3:33:56 PM LogginBasic main
+INFO: Calculation get started!
+Feb 07, 2026 3:40:49 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 3:40:49 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 3:40:55 PM LogginBasic main
+INFO: Calculation get started!
+Feb 07, 2026 3:40:55 PM LogginBasic main
+INFO: result Occuared successfully! which is : 0
+Feb 07, 2026 6:44:04 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 6:44:04 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 6:44:24 PM LogginBasic main
+INFO: Calculation get started!
+Feb 07, 2026 6:44:24 PM LogginBasic main
+INFO: result Occuared successfully! which is : 0
+Feb 07, 2026 6:44:29 PM LogginBasic main
+INFO: given number is valid!
+Feb 07, 2026 6:55:58 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 6:55:58 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 6:56:03 PM LogginBasic main
+INFO: Calculation get started!
+Feb 07, 2026 6:56:03 PM LogginBasic main
+INFO: result Occuared successfully! which is : 1
+Feb 07, 2026 6:56:05 PM LogginBasic main
+INFO: given number is valid!
+Feb 07, 2026 6:56:05 PM LogginBasic main
+INFO: Info message
+Feb 07, 2026 6:56:05 PM LogginBasic main
+WARNING: Warning message
+Feb 07, 2026 6:56:05 PM LogginBasic main
+SEVERE: Severe message
+Feb 07, 2026 7:36:38 PM LogginBasic main
+INFO: this app is not working !
+Feb 07, 2026 7:36:38 PM LogginBasic main
+WARNING: please handle inpute exception!
+Feb 07, 2026 7:36:41 PM LogginBasic main
+INFO: Calculation get started!
+Feb 07, 2026 7:36:41 PM LogginBasic main
+INFO: result Occuared successfully! which is : 0
+Feb 07, 2026 7:36:48 PM LogginBasic main
+INFO: given number is valid!
+Feb 07, 2026 7:36:48 PM LogginBasic uservalidation
+INFO: login attempt get started !
+Feb 07, 2026 7:36:48 PM LogginBasic uservalidation
+INFO: login done succesfully!
+Feb 09, 2026 10:53:23 AM LogginBasic main
+INFO: this app is not working !
+Feb 09, 2026 10:53:23 AM LogginBasic main
+WARNING: please handle inpute exception!
